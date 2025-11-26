@@ -4,7 +4,6 @@ This project compares four optimization methods for machine unlearning in logist
 - Newton Update
 - L-BFGS
 - Gradient Descent (GD)
-- Fisher Information Matrix (FIM)
 
 ## Setup
 1. Clone the repository:
